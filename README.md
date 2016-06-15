@@ -6,4 +6,4 @@ Mansion search engine.
 Beautiful hover effects.
 Clear design.
 
-![screenshot](http://i.imgur.com/fvSQiCk.jpg)
+![screenshot](http://i.imgur.com/SAI6OQi.jpg)
